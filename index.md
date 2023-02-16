@@ -2,7 +2,7 @@
 title: Coding Club HITAM
 layout: home
 description: This is the home of everything happening at coding club HITAM
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/index.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
