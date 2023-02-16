@@ -22,12 +22,14 @@ bodyClass: "page-services"
   <div class="row">
     {% for service in site.events %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-          </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+      <div style="border: 1px solid #1C7042; border-radius: 20px; padding:15px; box-shadow: 2px 2px 5px #888;">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h2>
+            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          </div>
         </div>
       </div>
     </div>
