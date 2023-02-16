@@ -1,5 +1,6 @@
 baseurl: '/'
-permalink: https://coding-hitam.github.io
+url: "https://coding-hitam.github.io"
+permalink: pretty
 title: 'Coding Club Hitam'
 
 logo:
