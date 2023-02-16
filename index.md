@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Coding Club HITAM
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: This is the home of everything happening at coding club HITAM
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Coding Club HITAM
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+This the page to catch up to everything happening at **Coding Club HITAM**. It is an affinity club at hitam which targets to upskill the programmers in the Hyderabad Institute of Technology and Management. We are focused to be a community for everyone from beginner to pro level programmers.
