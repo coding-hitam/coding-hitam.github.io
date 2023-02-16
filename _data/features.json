@@ -1,16 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Collaborative Learning",
+    "description": "Members can work together on projects, share knowledge, and learn from each other's experiences.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,10 +9,19 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Regular Meetups and Workshops",
+    "description": "Regular meetups and workshops on various topics related to computer programming and technology.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Networking Opportunities",
+    "description": "members can connect with other like-minded individuals who share their passion for technology.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }

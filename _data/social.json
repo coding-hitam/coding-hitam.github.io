@@ -13,5 +13,10 @@
     "name": "Linkedin",
     "link": "https://www.linkedin.com/company/coding-club-hitam/",
     "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "WhatsApp",
+    "link": "https://chat.whatsapp.com/CP5IknasGHwFdvumcDcUcb",
+    "image": "images/social/whatsapp.svg"
   }
 ]
