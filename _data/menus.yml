@@ -11,7 +11,9 @@ main:
   # - name: "Team"
   #   url: "/team/"
   #   weight: 3
-  
+  - name: "Join Us"
+    url: "/hire/"
+    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
