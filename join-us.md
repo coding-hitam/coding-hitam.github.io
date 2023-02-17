@@ -33,7 +33,13 @@ date: 2018-11-18T12:33:46+10:00
 
 Coding club is place for learning and exploring the world of technology,but any club is incomplete without a community. A community is incomplete without leaders and people who take up resposibility. Leaders are those who shape a community and give it a direction.
 
-If you are someone who is passionately in love with coding and wants to take resposibility of shaping a community then join the team of Coding Club HITAM.l
+If you are someone who is passionately in love with coding and wants to take resposibility of shaping a community then join the team of Coding Club HITAM.
+
+**Academic Years Applicable:**
+* Second Year (2025)
+* Third Year (2024)
+
+**Deadline**:22-02-2022
 
 We have two roles:
 
