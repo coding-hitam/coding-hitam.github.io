@@ -15,3 +15,5 @@ We are on various Platforms using which you can connect to us, and follow can st
 [LinkedIn](https://www.linkedin.com/company/coding-club-hitam/)
 
 [Join Us on WhatsApp](https://chat.whatsapp.com/CP5IknasGHwFdvumcDcUcb)
+
+[Discord Server](https://discord.gg/cK5GCXnFrF)

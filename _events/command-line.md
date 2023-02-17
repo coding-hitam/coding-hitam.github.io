@@ -42,3 +42,9 @@ In conclusion, CLI is an essential part of software development, and mastering i
 ![Alt text](/../images/events/Photos-CL/20230108_191051_0001.png)
 
 ![Alt text](/../images/events/Photos-CL/20230108_191051_0002.png)
+
+## References
+
+[Windows command line](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
+
+[Linux Commands](https://www.javatpoint.com/linux-commands)

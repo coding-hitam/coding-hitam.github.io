@@ -18,5 +18,10 @@
     "name": "WhatsApp",
     "link": "https://chat.whatsapp.com/CP5IknasGHwFdvumcDcUcb",
     "image": "images/social/whatsapp.svg"
+  },
+  {
+    "name": "Discord",
+    "link": "https://discord.gg/cK5GCXnFrF",
+    "image": "images/social/discord.svg"
   }
 ]
