@@ -11,8 +11,8 @@ main:
   # - name: "Team"
   #   url: "/team/"
   #   weight: 3
-  - name: "Join Us"
-    url: "/join-us/"
+  - name: "Science Day"
+    url: "/science-day/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
