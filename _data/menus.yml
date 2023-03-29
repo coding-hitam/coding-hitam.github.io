@@ -7,16 +7,16 @@ main:
     weight: 3
   - name: "Projects"
     url: "/projects/"
-    # weight: 3
-  # - name: "Team"
-  #   url: "/team/"
-  #   weight: 3
+    weight: 3
+  - name: "Team"
+    url: "/team/"
+    weight: 3
   # - name: "Science Day"
   #   url: "/science-day/"
   #   weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 4
 
 footer:
   - name: "Home"
